@@ -6,7 +6,7 @@ Date : April 1, 2020
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, fig.path='Figs/')
 ```
 
  Tracking the activity of an individual for each day for the months of October and November at 5 minute intervals.
